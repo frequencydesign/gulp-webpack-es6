@@ -1,0 +1,9 @@
+{
+  "name": "gulp-webpack-es6",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  }
+}
