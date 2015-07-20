@@ -16,3 +16,7 @@ $ gulp
 That's it for now!
 
 
+## Next, add Webpack and default webpack gulp commands
+
+I added the gulp-util to help colorize console/command line output as well as a few other things I will explain over time.
+I added webpack per my preferance and the webpack-dev-server for hot swapping code and simply running a server easily integrated with webpack.
